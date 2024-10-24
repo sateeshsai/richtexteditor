@@ -1,0 +1,1 @@
+Not a library. This is a folder copied from one of my projects, containing an example of rich text editor implementation using Svelte and TipTap. The files might have imports/functions that don't exist, unrelated to the rich text editor. Ignore/customize per your need.
